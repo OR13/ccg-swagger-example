@@ -1,7 +1,6 @@
-# Example Swagger + Respec Repo
+# VC HTTP API
 
-https://or13.github.io/ccg-swagger-example/
+https://or13.github.io/respec-swagger/
 
-https://or13.github.io/ccg-swagger-example/issuer/
+https://or13.github.io/respec-swagger/swagger/
 
-https://or13.github.io/ccg-swagger-example/verifier
